@@ -1,4 +1,4 @@
-# umbrella-usefulness-analysi# When Are Umbrellas Actually Useful?
+# When Are Umbrellas Actually Useful?
 
 A data analytics project examining umbrella-favorable weather conditions in Chicago and whether public attention aligns with objectively useful umbrella conditions.
 
