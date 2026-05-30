@@ -42,3 +42,7 @@ When are umbrellas actually useful in Chicago, and does public attention toward 
 - SQLite
 - SQL
 - Jupyter Notebooks
+
+Generative AI was used primarily as a coding and technical support tool throughout this project. I developed the research question, target audience, umbrella favorability framework, analytical approach, and interpretation of findings independently. I then used GenAI to help translate those ideas into Python and SQL code, particularly for data cleaning, feature engineering, time-series analysis, data aggregation, visualization, and regression implementation.
+
+Throughout the project, I described the desired logic in plain language and used GenAI to assist with coding syntax, debugging, and structuring analytical workflows. All code was reviewed, tested, and modified as needed, and I ensured that I understood the purpose and function of each step before incorporating it into the final analysis.
